@@ -3,7 +3,7 @@
 Cette organisation contient les repos de mes différents labos et projets effectués durant mon cursus HEIG-VD.
 Cette organisation existe uniquement à des fins d'archivage.
 
-Ces laboratoires ont majoritairement été accompli avec mon pote [maxscharwath-heig](https://github.com/maxscharwath-heig)
+Ces laboratoires ont majoritairement été accomplis avec mon pote [maxscharwath-heig](https://github.com/maxscharwath-heig)
 
 # Projets à ne pas manquer
 
